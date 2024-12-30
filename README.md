@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Donovan!
-Welcome to my GitHub profile! I’m a computer scienctist passionate about solving challenging problems in **data science**, **cybsecurity**, and **machine learning**.
+Welcome to my GitHub profile! I’m an undergraduate student passionate about solving challenging problems in **computer science**.
 ## 🚀 About Me
 - 🎓 Third Year CS student at Northeastern University
 - 👨‍💻 Previous Role: Data Engineering Intern, Data Science at Recorded Future
@@ -9,12 +9,10 @@ Welcome to my GitHub profile! I’m a computer scienctist passionate about solvi
 - 🏀 HoopProphet
   - A Python app for predicting the winner of the NBA MVP award, using supervised machine learning.
 ### ⚙️ Areas of Interest
-I’m always eager to dive deeper into exciting aspects of computer science. Here are some topics & research areas that currently spark my curiosity:
+I’m eager to dive deeper into exciting aspects of CS. Here are some topics & research areas that currently spark my curiosity:
 - 🤖 Artificial Intelligence, Machine Learning & Deep Learning
-  - Libaries & Frameworks: TensorFlow, PyTorch, OpenCV, LangChain, MLflow
 - 📊 Data Science: Large Scale Data Processing & Storage
-  - Technologies: Cloud and Distributed Computing (AWS, Apache Spark), NoSQL Data Stores (MongoDB, Neo4j, Redis, ElasticSearch, Pinecone)
 - 🔐 Cybersecurity: Penetration Testing & Systems Security
-  - Tools: Kali Linux, Burp Suite, Wireshark, Docker, MITRE ATT&CK
 ## 🤝 Let’s Collaborate
-I’m always open to contributions, ideas, and feedback on my projects. If something sparks your interest, feel free to create an issue / pull request, fork a repository and add your own twist, or reach out!
+- I’m always open to contributions, ideas, and feedback on my projects 😊
+- If something sparks your interest, feel free to create an issue / pull request, fork a repository and add your own twist, or reach out!
