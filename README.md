@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I’m an undergraduate student passionate about so
   - A Python app for predicting the winner of the NBA MVP award, using supervised machine learning.
 ### ⚙️ Areas of Interest
 I’m eager to dive deeper into exciting aspects of CS. Here are some topics & research areas that currently spark my curiosity:
-- 🤖 Artificial Intelligence, Machine Learning & Deep Learning
+- 🤖 Artificial Intelligence: Machine Learning & Deep Learning
 - 📊 Data Science: Large Scale Data Processing & Storage
 - 🔐 Cybersecurity: Penetration Testing & Systems Security
 ## 🤝 Let’s Collaborate
