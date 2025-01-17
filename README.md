@@ -1,5 +1,6 @@
 ## 👋 Hi, I'm Donovan!
 Welcome to my GitHub profile! I’m an undergraduate student passionate about solving challenging problems in **computer science**.
+[![Donovan's GitHub stats](https://github-readme-stats.vercel.app/api?username=DunnyBunny1)](https://github.com/anuraghazra/github-readme-stats)
 ## 🚀 About Me
 - 🎓 Third Year CS student at Northeastern University
 - 👨‍💻 Previous Role: Data Engineering Intern, Data Science at Recorded Future
