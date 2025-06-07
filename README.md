@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Donovan!
 🚀 Welcome to my GitHub profile! A little bit about me:
-- 🎓 I am a third-year undergraduate computer science student at Northeastern University in Boston, USA
+- 🎓 I am a fourth-year undergraduate computer science student at Northeastern University in Boston, USA
 - 🌍 I am fluent in **English** and **French**.
 - 👨‍💻 Previous Role: Data Engineering Intern at Recorded Future
 ### My Live Github Stats
@@ -48,15 +48,3 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   </a>
 </p>
-
-### ⚙️ Areas of Interest
-I’m eager to dive deeper into exciting aspects of CS. Here are some topics & research areas that currently spark my curiosity:
-- 📊 Data Science: Distributed Systems & Database Design
-- 🔐 Cybersecurity: Web Application Security & Penetration Testing
-- 🤖 Machine Learning: Game AI and Reinforcement Learning
-
-### 🌟 What I Have Been Working On...
-- 🕹️ AI Chess Bot
-  - A UCI-compliant engine that can compete against human and AI players on the open-source chess server [Lichess](https://www.lichess.org) 
-- 🏀 HoopProphet
-  - A Python app for predicting the winner of the NBA MVP award, using supervised machine learning.
