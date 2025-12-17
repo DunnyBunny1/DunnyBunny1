@@ -2,7 +2,7 @@
 🚀 Welcome to my GitHub profile! A little bit about me:
 - 🎓 I am a fourth-year undergraduate computer science student at Northeastern University in Boston, USA
 - 🌍 I am fluent in **English** and **French**.
-- 👨‍💻 Previous Role: Data Engineering Intern at Recorded Future
+- 👨‍💻 Previous Role: Software Engineering Intern @ Integrity Security Services
 ### My Live Github Stats
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DunnyBunny1&theme=monokai" alt="GitHub Streak" /></a>
 ### I am experienced with...
