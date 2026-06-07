@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Donovan!
 🚀 Welcome to my GitHub profile! A little bit about me:
-- 🎓 I hold a Bachelor's of Science in computer science from Northeastern University in Boston, MA, USA
+- 🎓 I hold a Bachelor's of Science in Computer Science from Northeastern University in Boston, MA, USA
 - 🌍 I am fluent in **English** and **French**.
 - 👨‍💻 Previous Role: Software Engineering Intern @ Integrity Security Services
 ### My Live Github Stats
